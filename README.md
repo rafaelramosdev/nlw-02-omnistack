@@ -33,7 +33,7 @@ O Proffy é uma plataforma de estudos que conecta alunos e professores de forma 
 
 O Proffy foi desenvolvido pensando em conectar e ajudar alunos a encontrarem professores sem precisar sair de casa ou fazer muito esforço.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 03 a 09 de Agosto de 2020.
+Este é um projeto desenvolvido durante a **[Next Level Week #02](https://nextlevelweek.com/)**, apresentada nos dias 03 a 09 de Agosto de 2020.
 
 ## 🔖 Layout
 
